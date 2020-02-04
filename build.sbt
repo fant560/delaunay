@@ -1,5 +1,3 @@
-import java.util.Optional
-
 name := "triangulation"
 
 version := "0.1"
